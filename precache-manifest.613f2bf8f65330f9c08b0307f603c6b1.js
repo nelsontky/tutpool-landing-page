@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "15141eba3a4e9352398e0ff63ed3ac56",
+    "revision": "4c79f16c008c66a78b2ea64d03ce3186",
     "url": "/tutpool-landing-page/index.html"
   },
   {
