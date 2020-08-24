@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tutpool-landing-page/precache-manifest.613f2bf8f65330f9c08b0307f603c6b1.js"
+  "/tutpool-landing-page/precache-manifest.c9bea98ec35d7d96cbc6501f6adab52d.js"
 );
 
 self.addEventListener('message', (event) => {

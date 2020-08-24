@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/tutpool-landing-page/static/js/main.c5c3871c.chunk.js",
-    "main.js.map": "/tutpool-landing-page/static/js/main.c5c3871c.chunk.js.map",
+    "main.js": "/tutpool-landing-page/static/js/main.1af9bdae.chunk.js",
+    "main.js.map": "/tutpool-landing-page/static/js/main.1af9bdae.chunk.js.map",
     "runtime-main.js": "/tutpool-landing-page/static/js/runtime-main.fd871c41.js",
     "runtime-main.js.map": "/tutpool-landing-page/static/js/runtime-main.fd871c41.js.map",
     "static/js/2.f0f6924d.chunk.js": "/tutpool-landing-page/static/js/2.f0f6924d.chunk.js",
     "static/js/2.f0f6924d.chunk.js.map": "/tutpool-landing-page/static/js/2.f0f6924d.chunk.js.map",
     "index.html": "/tutpool-landing-page/index.html",
-    "precache-manifest.613f2bf8f65330f9c08b0307f603c6b1.js": "/tutpool-landing-page/precache-manifest.613f2bf8f65330f9c08b0307f603c6b1.js",
+    "precache-manifest.c9bea98ec35d7d96cbc6501f6adab52d.js": "/tutpool-landing-page/precache-manifest.c9bea98ec35d7d96cbc6501f6adab52d.js",
     "service-worker.js": "/tutpool-landing-page/service-worker.js",
     "static/js/2.f0f6924d.chunk.js.LICENSE.txt": "/tutpool-landing-page/static/js/2.f0f6924d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fd871c41.js",
     "static/js/2.f0f6924d.chunk.js",
-    "static/js/main.c5c3871c.chunk.js"
+    "static/js/main.1af9bdae.chunk.js"
   ]
 }
