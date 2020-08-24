@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0babe4d6a129f2c9712e6309a670ed12",
+    "revision": "9312171544c271a7d54990d262964ee5",
     "url": "/tutpool-landing-page/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tutpool-landing-page/static/js/2.f0f6924d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3cb2c7a6e85603d08b9f",
-    "url": "/tutpool-landing-page/static/js/main.1af9bdae.chunk.js"
+    "revision": "27222d835fe3a261a140",
+    "url": "/tutpool-landing-page/static/js/main.5686160f.chunk.js"
   },
   {
     "revision": "e1fcc0aceb79d58e17df",
